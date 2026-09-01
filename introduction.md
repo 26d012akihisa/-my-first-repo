@@ -9,7 +9,8 @@
 
 ## もっと詳しく
 さらに知りたい？ [Wikipediaのパンダの記事](https://ja.wikipedia.org/wiki/パンダ) を見てみましょう！
-  ## パンダの一日
+
+## パンダの一日
 
 ```mermaid
 flowchart TD
